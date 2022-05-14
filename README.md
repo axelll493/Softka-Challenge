@@ -1,6 +1,13 @@
 # challenge softka - Set of questions and answers
 
-### Vista previa
+## Steps To Follow
+
+### npm install
+Locate the downloaded repository folder, run a console and enter the command, that will install the necessary dependencies to perform the deployment correctly.
+### npm start
+execute the command, then the page will be displayed at the local address: http://localhost:3000
+
+### Preview
 ![Sofka Challenger](https://user-images.githubusercontent.com/89809580/168413983-f88a5a72-67bd-44a3-9d91-f688478e8cd8.jpg)
 
 ### technologies used
