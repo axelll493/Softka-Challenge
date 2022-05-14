@@ -1,0 +1,16 @@
+.d-flex{
+    color: white;
+}
+
+
+.title{
+
+    color: white;
+    font-size: 80px;
+
+
+    
+    text-shadow: -1px -1px 0px blue,
+      3px 3px 0px blue,
+      6px 6px 0px blue;
+}

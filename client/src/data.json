@@ -1,0 +1,262 @@
+{
+    "nivel1": [
+        {
+            "id": 1,
+            "categories": "HTML",
+            "pregunta": "What is the <hr>tag typically used for?",
+            "respuesta1": "It draws a horizontal line.",
+            "respuesta2": "This tag is depreciated and should not be used.",
+            "respuesta3": "It designates a topic shift within a section at the paragraph level.",
+            "respuesta4": "It designates a shift of topic at the section level.",
+            "correcta": "It designates a topic shift within a section at the paragraph level."
+        },
+        {
+            "id": 2,
+            "categories": "HTML",
+            "pregunta": "What does the <label> element do?",
+            "respuesta1": "It programmatically associates a text label with an interface element.",
+            "respuesta2": "It overrides the name attribute's value on a child input element.",
+            "respuesta3": "It creates an ID for a corresponding input element.",
+            "respuesta4": "It labels webpages with important information.",
+            "correcta": "It programmatically associates a text label with an interface element."
+        },
+        {
+            "id": 3,
+            "categories": "HTML",
+            "pregunta": "What is the difference between the <div> and <span> tags?",
+            "respuesta1": "<div> is used where a generic block-level tag is needed, while <span> is used where a generic inline tag is needed.",
+            "respuesta2": "<div> is used for major divisions on a page, while <span> is used to span across columns.",
+            "respuesta3": "<div> is the industry-standard default tag, but you could use <span> if you prefer.",
+            "respuesta4": "<div> is used where a generic inline tag is needed, while <span> is used where a generic block-level tag is needed.",
+            "correcta": "<div> is used where a generic block-level tag is needed, while <span> is used where a generic inline tag is needed."
+        },
+        {
+            "id": 4,
+            "categories": "HTML",
+            "pregunta": "When should you use <ol> and <ul> elements?",
+            "respuesta1": "Use <ul> when you have a list of items in which the order of the items matters. Use <ol> when you have a list of items that could go in any order.",
+            "respuesta2": "Use <ul> when you want a bulleted list and <ol> when you want a numbered list.",
+            "respuesta3": "Use <ol> when you want a bulleted list and <ul> when you want a numbered list.",
+            "respuesta4": "Use <ol> when you have a list of items in which the order of the items matters. Use <ul> when you have a list of items that could go in any order.",
+            "correcta": "Use <ul> when you want a bulleted list and <ol> when you want a numbered list."
+        },
+        {
+            "id": 5,
+            "categories": "HTML",
+            "pregunta": "Which image formats can be displayed by all web browsers?",
+            "respuesta1": "JPG, GIF, TIF",
+            "respuesta2": "JPG, TIF, BMP",
+            "respuesta3": "TIF, BMP, GIF",
+            "respuesta4": "PNG, GIF, JPG",
+            "correcta": "PNG, GIF, JPG"
+        }
+    ],
+    "nivel2": [
+        {
+            "id": 1,
+            "categories": "CSS",
+            "pregunta": "Which style rule would you apply to set the background image to display the contents of the wood.png file?",
+            "respuesta1": "background-image: file('wood.png')",
+            "respuesta2": "background-image: wood.png;",
+            "respuesta3": "background-image: url('wood.png');",
+            "respuesta4": "image: wood.png",
+            "correcta": "background-image: url('wood.png');"
+        },
+        {
+            "id": 2,
+            "categories": "CSS",
+            "pregunta": "Which style places an element at a fixed location within its container?",
+            "respuesta1": "display: flex;",
+            "respuesta2": "position: absolute;",
+            "respuesta3": "display: block;",
+            "respuesta4": "float: left;",
+            "correcta": "position: absolute;"
+        },
+        {
+            "id": 3,
+            "categories": "CSS",
+            "pregunta": "Which CSS keyword can you use to override standard source order and specificity rules?",
+            "respuesta1": "!elevate!",
+            "respuesta2": "!important",
+            "respuesta3": "prime",
+            "respuesta4": "override",
+            "correcta": "!important"
+        },
+        {
+            "id": 4,
+            "categories": "CSS",
+            "pregunta": "¿Which choice is not valid value for the font-style property?",
+            "respuesta1": "none",
+            "respuesta2": "italic",
+            "respuesta3": "normal",
+            "respuesta4": "oblique",
+            "correcta": "none"
+        },
+        {
+            "id": 5,
+            "categories": "CSS",
+            "pregunta": "Which choice is not a valid transition?",
+            "respuesta1": "transition: color 1.3s ease-in;",
+            "respuesta2": "transition: position 400ms linear;",
+            "respuesta3": "transition: margin 1000ms ease-in-out;",
+            "respuesta4": "transition: opacity 1s ease-in;",
+            "correcta": "transition: margin 1000ms ease-in-out;"
+        }
+    ],
+    "nivel3": [
+        {
+            "id": 1,
+            "categories": "Javascript",
+            "pregunta": "Which operator returns true if the two compared values are not equal?",
+            "respuesta1": "~",
+            "respuesta2": "!==",
+            "respuesta3": "==!",
+            "respuesta4": "<>",
+            "correcta": "!=="
+        },
+        {
+            "id": 2,
+            "categories": "Javascript",
+            "pregunta": "How is a forEach statement different from a for statement?",
+            "respuesta1": "A for statement is generic, but a forEach statement can be used only with an array.",
+            "respuesta2": "Only a forEach statement lets you specify your own iterator.",
+            "respuesta3": "A forEach statement is generic, but a for statement can be used only with an array.",
+            "respuesta4": "Only a for statement uses a callback function.",
+            "correcta": "A for statement is generic, but a forEach statement can be used only with an array."
+        },
+        {
+            "id": 3,
+            "categories": "Javascript",
+            "pregunta": "Which method converts JSON data to a JavaScript object?",
+            "respuesta1": "JSON.toObject().",
+            "respuesta2": "JSON.stringify()",
+            "respuesta3": "JSON.fromString();",
+            "respuesta4": "JSON.parse()",
+            "correcta": "JSON.parse()"
+        },
+        {
+            "id": 4,
+            "categories": "Javascript",
+            "pregunta": "Which Variable-defining keyword allows its variable to be accessed (as undefined) before the line that defines it?",
+            "respuesta1": "all of them",
+            "respuesta2": "const",
+            "respuesta3": "let",
+            "respuesta4": "var",
+            "correcta": "var"
+        },
+        {
+            "id": 5,
+            "categories": "Javascript",
+            "pregunta": "Which Object method returns an iterable that can be used to iterate over the properties of an object?",
+            "respuesta1": "Object.each()",
+            "respuesta2": "Object.keys()",
+            "respuesta3": "Object.loop()",
+            "respuesta4": "Object.get()",
+            "correcta": "Object.keys()"
+        }
+    ],
+    "nivel4": [
+        {
+            "id": 1,
+            "categories": "ReactJs",
+            "pregunta": "React is an open-source project but is maintained by which company?",
+            "respuesta1": "Facebook",
+            "respuesta2": "Twitter",
+            "respuesta3": "Intuit",
+            "respuesta4": "Snapchat",
+            "correcta": "Facebook"
+        },
+        {
+            "id": 2,
+            "categories": "ReactJs",
+            "pregunta": "What command can you use to generate a React project?",
+            "respuesta1": "create-react-app",
+            "respuesta2": "react-starter",
+            "respuesta3": "react-gen",
+            "respuesta4": "react-start",
+            "correcta": "create-react-app"
+        },
+        {
+            "id": 3,
+            "categories": "ReactJs",
+            "pregunta": "A representation of a user interface that is kept in memory and is synced with the real DOM is called what?",
+            "respuesta1": "virtual DOM",
+            "respuesta2": "DOM",
+            "respuesta3": "virtual elements",
+            "respuesta4": "shadow DOM",
+            "correcta": "virtual DOM"
+        },
+        {
+            "id": 4,
+            "categories": "ReactJs",
+            "pregunta": "Which tool is not part of Create React App?",
+            "respuesta1": "jQuery",
+            "respuesta2": "Bette Davis",
+            "respuesta3": "webpack",
+            "respuesta4": "ReactDOM",
+            "correcta": "jQuery"
+        },
+        {
+            "id": 5,
+            "categories": "ReactJs",
+            "pregunta": "What is the browser extension called that React developers use to debug applications?",
+            "respuesta1": "React Tooling Add-on",
+            "respuesta2": "React Codewatch",
+            "respuesta3": "React Debug",
+            "respuesta4": "React Developer Tools",
+            "correcta": "React Developer Tools"
+        }
+    ],
+    "nivel5": [
+        {
+            "id": 1,
+            "categories": "NodeJs",
+            "pregunta": "How do you make an HTTP server object active and listen to requests on certain ports?",
+            "respuesta1": "React Tooling Add-on",
+            "respuesta2": "React Codewatch",
+            "respuesta3": "React Debug",
+            "respuesta4": "server.listen",
+            "correcta": "server.listen"
+        },
+        {
+            "id": 2,
+            "categories": "NodeJs",
+            "pregunta": "What can you export with module.exports?",
+            "respuesta1": "only objects.",
+            "respuesta2": "functions, objects, arrays, or anything you assign to the module",
+            "respuesta3": "only functions",
+            "respuesta4": " only variables and arrays",
+            "correcta": "functions, objects, arrays, or anything you assign to the module"
+        },
+        {
+            "id": 3,
+            "categories": "NodeJs",
+            "pregunta": "El mercader veneciano Marco Polo fue oficial en la corte de…",
+            "respuesta1": "Iván el Terrible",
+            "respuesta2": "Kumiai Khan",
+            "respuesta3": "Tameriano el magnífico",
+            "respuesta4": "Saladino",
+            "correcta": "Kumiai Khan"
+        },
+        {
+            "id": 4,
+            "categories": "NodeJs",
+            "pregunta": "How do you start a Node application, if the entry file is indexjs?",
+            "respuesta1": "node index.js",
+            "respuesta2": "nodemon start",
+            "respuesta3": "start index.js",
+            "respuesta4": "node start",
+            "correcta": "node index.js"
+        },
+        {
+            "id": 5,
+            "categories": "NodeJs",
+            "pregunta": "How can you use the promise API with a callback-based function such as child_process.exec?",
+            "respuesta1": "util.promisify(child_process.exec)",
+            "respuesta2": "new Promise(child_process.exec())",
+            "respuesta3": "util.promisify(child_process.exec())",
+            "respuesta4": "new Promise(child_process.exec)",
+            "correcta": "util.promisify(child_process.exec)"
+        }
+    ]
+}
